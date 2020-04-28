@@ -5,7 +5,7 @@ public class Main {
 
 	public static void main(String[] args) throws IOException{
 		// TODO Auto-generated method stub
-		BufferedReader in = new BufferedReader(new FileReader("DATA12.txt"));
+		BufferedReader in = new BufferedReader(new FileReader("DATA11.txt"));
 		//Loop 10 times for the ten test cases
 		for (int testCase=0;testCase<10;testCase++) {
 
